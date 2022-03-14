@@ -1,0 +1,65 @@
+h2 { 
+    color: #000000; 
+    font-family: ‘Lobster’, cursive; 
+    font-size: 24px; 
+    font-weight: normal; 
+    line-height: 24px; 
+    margin: 0 0 18px; 
+    text-shadow: 1px 0 0 #fff; 
+    text-align: center;
+}
+
+h3 { color: #000000; 
+    font-family: ‘Oleo Script’, cursive; 
+    font-size: 16px; 
+    font-weight: normal; 
+    line-height: 16px; 
+    margin: 0 0 18px; 
+    text-shadow: 1px 0 0 #fff; 
+}
+
+p, input { 
+    color: #333; 
+    font-family: ‘Original Surfer’, cursive; 
+    font-size: 16px; 
+    line-height: 28px; 
+    margin: 0 0 24px; 
+}
+
+.Boxes {
+    display: flex;
+    flex-direction: row;
+    flex-grow: 0;
+    flex-shrink: 1;
+    flex-basis: auto;
+}
+
+.item-1 {
+    background: linear-gradient(45deg, #ff9838, #f8e2f3);
+    width: 50%;
+    text-align: center;
+  }
+
+.item-2 {
+    background: linear-gradient(45deg, #f8e2f3, #ff9838);
+    width: 50%;
+    text-align: center;
+  }
+  div {
+    outline: 2px solid rgb(161, 155, 155);
+    padding-left:20px;
+    padding-top:5px;
+    padding-right:35px;
+    padding-bottom:10px
+  }
+  .but {
+    color: #000000; 
+    font-family: ‘Lobster’, cursive; 
+    font-size: 24px; 
+    font-weight: normal; 
+    line-height: 24px; 
+    margin: 0 0 18px; 
+    text-shadow: 1px 0 0 #fff; 
+    text-align: center;
+  }
+
